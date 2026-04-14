@@ -3,6 +3,8 @@
 Free, open-source macOS menu bar utility for external monitor control.
 Brightness, volume, presets, HiDPI sharpening, BlackOut. No tracking, ever.
 
+**Website:** [cidra-web.vercel.app](https://cidra-web.vercel.app)
+
 <p align="center">
   <img src="docs/marketing/screenshot-dark.png" width="380" alt="Cidra menu bar panel">
 </p>
