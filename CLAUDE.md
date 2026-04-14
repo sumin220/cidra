@@ -4,6 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
+Cidra is a macOS native menu bar utility for managing external monitors — brightness/volume control via DDC/CI and text sharpening (HiDPI) via virtual screens. It targets macOS 14 Sonoma+ and follows a "Simple is Best" design philosophy.
 
 ## Tech Stack
 

@@ -39,6 +39,9 @@ Icon
 *.tmp
 .gstack/
 
+# Build artifacts (DMG goes to GitHub Releases)
+dist/
+
 # Editor
 .vscode/
 .idea/
