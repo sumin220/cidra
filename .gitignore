@@ -1,0 +1,46 @@
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+Packages/
+Package.resolved
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Xcode generated project (we use XcodeGen — project.yml is the source of truth)
+Cidra.xcodeproj/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Logs and tmp
+*.log
+*.tmp
+.gstack/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
